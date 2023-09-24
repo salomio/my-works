@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Swagger``, ``Trello``<br>
-``Miro``, ``pgAdmin``, ``Mockoon``, ``Sitechco``, ``Confluence``<br>
+``Miro``, ``pgAdmin``, ``Mockoon``, ``Sitechco``, ``Checkvist``, ``Confluence``<br>, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
 ## Проекты
